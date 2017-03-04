@@ -11,7 +11,7 @@
     tools:context="com.example.yu.testgit.MainActivity">
 
     <TextView
-        android:text="Hello World!"
+        android:text="@string/hello_world_this_is_testing_for_git"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
 </RelativeLayout>
